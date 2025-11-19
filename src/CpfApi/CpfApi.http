@@ -1,0 +1,6 @@
+@CpfApi_HostAddress = http://localhost:5257
+
+GET {{CpfApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
